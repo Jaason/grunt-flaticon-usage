@@ -1,0 +1,532 @@
+{
+    "name": "",
+    "css_prefix_text": "flaticon-",
+    "css_use_suffix": false,
+    "hinting": true,
+    "copyright": "undefined",
+    "fullname": "undefined",
+    "icons": [
+        {
+            "id": "128",
+            "team": 1,
+            "color": "#000000",
+            "name": "gear"
+        },
+        {
+            "id": "1981",
+            "team": 1,
+            "color": "#000000",
+            "name": "close"
+        },
+        {
+            "id": "69480",
+            "team": 1,
+            "color": "#000000",
+            "name": "twitter"
+        },
+        {
+            "id": "3526",
+            "team": 1,
+            "color": "#000000",
+            "name": "minus-filled"
+        },
+        {
+            "id": "3585",
+            "team": 1,
+            "color": "#000000",
+            "name": "envelope"
+        },
+        {
+            "id": "17004",
+            "team": 1,
+            "color": "#000000",
+            "name": "head"
+        },
+        {
+            "id": "3662",
+            "team": 1,
+            "color": "#000000",
+            "name": "plus-bold"
+        },
+        {
+            "id": "3671",
+            "team": 1,
+            "color": "#000000",
+            "name": "people"
+        },
+        {
+            "id": "3682",
+            "team": 1,
+            "color": "#000000",
+            "name": "list"
+        },
+        {
+            "id": "3694",
+            "team": 1,
+            "color": "#000000",
+            "name": "arrow-next-bold"
+        },
+        {
+            "id": "8820",
+            "team": 1,
+            "color": "#000000",
+            "name": "plus"
+        },
+        {
+            "id": "9188",
+            "team": 1,
+            "color": "#000000",
+            "name": "warning"
+        },
+        {
+            "id": "9242",
+            "team": 1,
+            "color": "#000000",
+            "name": "star"
+        },
+        {
+            "id": "54824",
+            "team": 1,
+            "color": "#000000",
+            "name": "google"
+        },
+        {
+            "id": "19967",
+            "team": 1,
+            "color": "#000000",
+            "name": "caret"
+        },
+        {
+            "id": "25360",
+            "team": 1,
+            "color": "#000000",
+            "name": "chat"
+        },
+        {
+            "id": "25668",
+            "team": 1,
+            "color": "#000000",
+            "name": "plus-filled"
+        },
+        {
+            "id": "32061",
+            "team": 1,
+            "color": "#000000",
+            "name": "briefcase"
+        },
+        {
+            "id": "32234",
+            "team": 1,
+            "color": "#000000",
+            "name": "minus"
+        },
+        {
+            "id": "34097",
+            "team": 1,
+            "color": "#000000",
+            "name": "search"
+        },
+        {
+            "id": "8707",
+            "team": 1,
+            "color": "#000000",
+            "name": "linkedin"
+        },
+        {
+            "id": "45706",
+            "team": 1,
+            "color": "#000000",
+            "name": "fill"
+        },
+        {
+            "id": "45806",
+            "team": 1,
+            "color": "#000000",
+            "name": "box"
+        },
+        {
+            "id": "46096",
+            "team": 1,
+            "color": "#000000",
+            "name": "student"
+        },
+        {
+            "id": "3694",
+            "team": 1,
+            "color": "#000000",
+            "name": "arrow-next"
+        },
+        {
+            "id": "48358",
+            "team": 1,
+            "color": "#000000",
+            "name": "arrow-prev"
+        },
+        {
+            "id": "69407",
+            "team": 1,
+            "color": "#000000",
+            "name": "facebook"
+        },
+        {
+            "id": "53582",
+            "team": 1,
+            "color": "#000000",
+            "name": "attachment"
+        },
+        {
+            "id": "54969",
+            "team": 1,
+            "color": "#000000",
+            "name": "foggy5"
+        },
+        {
+            "id": "55003",
+            "team": 1,
+            "color": "#000000",
+            "name": "menu"
+        },
+        {
+            "id": "59254",
+            "team": 1,
+            "color": "#000000",
+            "name": "cross"
+        },
+        {
+            "id": "59399",
+            "team": 1,
+            "color": "#000000",
+            "name": "logout"
+        },
+        {
+            "id": "60731",
+            "team": 1,
+            "color": "#000000",
+            "name": "check"
+        },
+        {
+            "id": "61391",
+            "team": 1,
+            "color": "#000000",
+            "name": "bin"
+        },
+        {
+            "id": "61456",
+            "team": 1,
+            "color": "#000000",
+            "name": "pencil"
+        },
+        {
+            "id": "69455",
+            "team": 1,
+            "color": "#000000",
+            "name": "pencil-square"
+        },
+        {
+            "id": "61972",
+            "team": 1,
+            "color": "#000000",
+            "name": "home"
+        },
+        {
+            "id": "62683",
+            "team": 1,
+            "color": "#000000",
+            "name": "checked"
+        },
+        {
+            "id": "49399",
+            "team": 1,
+            "color": "#000000",
+            "name": "youtube"
+        },
+        {
+            "id": "25423",
+            "team": 1,
+            "color": "#000000",
+            "name": "thumb-up"
+        },
+        {
+            "id": "25395",
+            "team": 1,
+            "color": "#000000",
+            "name": "thumb-down"
+        },
+        {
+            "id": "12436",
+            "team": 1,
+            "color": "#000000",
+            "name": "download"
+        },
+        {
+            "id": "5112",
+            "team": 1,
+            "color": "#000000",
+            "name": "application"
+        },
+        {
+            "id": "33308",
+            "team": 1,
+            "color": "#000000",
+            "name": "groups"
+        },
+        {
+            "id": "60781",
+            "team": 1,
+            "color": "#000000",
+            "name": "arrow-down"
+        },
+        {
+            "id": "60799",
+            "team": 1,
+            "color": "#000000",
+            "name": "arrow-up"
+        },
+        {
+            "id": "64580",
+            "team": 1,
+            "color": "#000000",
+            "name": "more"
+        },
+        {
+            "id": "34202",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "magnifier"
+        },
+        {
+            "id": "3913",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "geolocation"
+        },
+        {
+            "id": "44543",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "star-black-fivepointed-shape"
+        },
+        {
+            "id": "84134",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "customer-reviews"
+        },
+        {
+            "id": "61469",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "calendar"
+        },
+        {
+            "id": "118759",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "heart"
+        },
+        {
+            "id": "57034",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "opposite-arrows"
+        },
+        {
+            "id": "126522",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "description"
+        },
+        {
+            "id": "63750",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "building"
+        },
+        {
+            "id": "88360",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "interview"
+        },
+        {
+            "id": "77682",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "notification-bell"
+        },
+        {
+            "id": "122488",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "person"
+        },
+        {
+            "id": "126179",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "dollar"
+        },
+        {
+            "id": "98888",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "bullhorn"
+        },
+        {
+            "id": "114774",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "dialog"
+        },
+        {
+            "id": "114887",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "user"
+        },
+        {
+            "id": "126472",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "settings"
+        },
+        {
+            "id": "130442",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "question"
+        },
+        {
+            "id": "149111",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "save"
+        },
+        {
+            "id": "126483",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "edit"
+        },
+        {
+            "id": "46712",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "thumb-up"
+        },
+        {
+            "id": "126498",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "copy"
+        },
+        {
+            "id": "65578",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "racing-flag"
+        },
+        {
+            "id": "79131",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "hourglass-finish"
+        },
+        {
+            "id": "134675",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "archive"
+        },
+        {
+            "id": "126572",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "up"
+        },
+        {
+            "id": "54443",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "add-circular-outlined-button"
+        },
+        {
+            "id": "149179",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "share"
+        },
+        {
+            "id": "64005",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "bookmark-star"
+        },
+        {
+            "id": "125753",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "user_head"
+        },
+        {
+            "id": "149947",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "more_dots"
+        },
+        {
+            "id": "149147",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "close_circle"
+        },
+        {
+            "id": "126479",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "padlock"
+        },
+        {
+            "id": "61764",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "print-button"
+        },
+        {
+            "id": "60577",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "back-arrow"
+        },
+        {
+            "id": "14714",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "website"
+        },
+        {
+            "id": "107162",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "tabs"
+        },
+        {
+            "id": "14853",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "user-profile-edition"
+        },
+        {
+            "id": "103340",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "write-board"
+        },
+        {
+            "id": "179312",
+            "team": 1,
+            "color": "#ffffff",
+            "name": "blogger"
+        }
+    ]
+}
